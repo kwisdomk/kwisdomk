@@ -44,6 +44,7 @@ KWAIX is my personal technology brand for secure AI-assisted systems, cybersecur
 
 Mr.Roboto is a PowerShell-based utility designed to simplify repetitive media-handling tasks through terminal-driven automation. Instead of relying on cluttered online tools, the project focuses on providing a practical local workflow for handling supported media sources with less friction and more control.
 
+
 **Focus:** automation, scripting, command-line tooling, workflow optimization
 **Stack:** PowerShell
 **Status:** Windows active . Linux beta
@@ -56,21 +57,10 @@ Mr.Roboto is a PowerShell-based utility designed to simplify repetitive media-ha
 
 AEGIS is a lightweight PowerShell-based diagnostics framework for collecting system baselines, analyzing machine state, and supporting local investigation workflows.
 
+
 **Focus:** system diagnostics, baseline collection, local investigation, endpoint visibility
 **Stack:** PowerShell, Windows diagnostics, structured reporting
 **Status:** Active prototype
-
----
-
-### [OTDT](https://github.com/kwisdomk/OTDT)
-
-**Real-time industrial digital twin for geothermal plant operations.**
-
-OTDT explores predictive maintenance and operational monitoring for geothermal assets using Monte Carlo failure prediction, anomaly detection, and live visualization.
-
-**Focus:** digital twins, predictive maintenance, anomaly detection, industrial monitoring
-**Stack:** Python, IBM Maximo MAS 9.1, watsonx.ai, data pipelines, visualization
-**Status:** Active build / demonstration system
 
 ---
 
@@ -79,6 +69,7 @@ OTDT explores predictive maintenance and operational monitoring for geothermal a
 **My live portfolio and personal technology brand platform.**
 
 TJOWK is the home of KWAIX — my personal site for documenting projects, technical growth, certifications, experiments, and field notes.
+
 
 **Focus:** personal branding, project documentation, portfolio systems, technical storytelling
 **Stack:** TypeScript, modern web tooling
@@ -92,6 +83,7 @@ TJOWK is the home of KWAIX — my personal site for documenting projects, techni
 
 HAKI was built as an AI healthcare concept focused on improving access to medical guidance in low-resource environments.
 
+
 **Focus:** AI healthcare, rural access, triage workflows, practical social impact
 **Stack:** Python, AI workflow design
 **Status:** Hackathon / concept prototype
@@ -103,6 +95,7 @@ HAKI was built as an AI healthcare concept focused on improving access to medica
 **Open-source AI prompt framework for clearer professional positioning.**
 
 vulai is a prompt framework designed to help transform vague profile writing into clearer, stronger, more evidence-based personal branding content.
+
 
 **Focus:** AI-assisted writing, prompt design, professional positioning, clarity
 **Status:** Public framework
@@ -126,9 +119,16 @@ The goal is not to build tools that work, but to build tools that are understand
 
 ## Private / Client Work
 
-Some of my work involves private or client-facing systems that are not fully public.
+Some of my work involves private, internship-based and or client-facing systems that are not fully public.
 
-For these, I share only safe high-level lessons around architecture, security, workflows, and system design without exposing sensitive business logic, private data, credentials, or client operations.
+This includes industrial monitoring, digital twin concepts, internal automamtion, diagnostics and operational workflow systems. For these projects, I only share safe high-level output around architecture, security, workflows, data handling and system design without exposing sensitive business logic, private data, creds, internal infra. or client ops.
+
+
+### Operational Technology Digital Twin ###
+
+Private industrial technology work focused on asset monitoring, predictive maintanance, anomaly detection and operational visibility.
+
+This work explores how digital twin concepts, simulation, AI-assited analysis and dashboarding can supprt maintanance planning and industrial decision-making. Public discussion is limited to general technical lessons and non-sensitive desing patterns.
 
 ---
 ## Contact
