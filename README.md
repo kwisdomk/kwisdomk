@@ -1,12 +1,12 @@
 <div align="center">
 
-# Wisdom Kinoti — KWAIX
+# Wisdom K — KWAIX
 
 ### Cybersecurity Analyst · AI Systems Builder · Secure Software & Practical Tech Solutions
 
 I build secure AI-assisted systems, cybersecurity tools, automation workflows, and practical software solutions for real-world problems.
 
-[Portfolio](https://kwaix.dev) · [LinkedIn](https://www.linkedin.com/in/wikin/) · [GitHub](https://github.com/kwisdomk)
+[Portfolio](https://kwaix.dev) · [LinkedIn](https://www.linkedin.com/in/kwaix/) · [GitHub](https://github.com/kwisdomk)
 
 </div>
 
@@ -35,6 +35,20 @@ KWAIX is my personal technology brand for secure AI-assisted systems, cybersecur
 ---
 
 ## Featured Projects
+
+---
+
+### [Mr.Roboto v2.0](https://github.com/kwisdomk/Mr.Roboto)
+
+**Command-line media automation utility built for cleaner, faster and more controlled workflows.**
+
+Mr.Roboto is a PowerShell-based utility designed to simplify repetitive media-handling tasks through terminal-driven automation. Instead of relying on cluttered online tools, the project focuses on providing a practical local workflow for handling supported media sources with less friction and more control.
+
+**Focus:** automation, scripting, command-line tooling, workflow optimization
+**Stack:** PowerShell
+**Status:** Windows active . Linux beta
+
+---
 
 ### [AEGIS](https://github.com/kwisdomk/AEGIS)
 
@@ -95,18 +109,6 @@ vulai is a prompt framework designed to help transform vague profile writing int
 
 ---
 
-### [Mr.Roboto v2.0](https://github.com/kwisdomk/msr)
-
-**PowerShell-based media utility focused on practical automation.**
-
-Mr.Roboto is a utility project built around simplifying media download workflows and reducing friction from cluttered online tools.
-
-**Focus:** automation, scripting, command-line tooling, practical utilities
-**Stack:** PowerShell
-**Status:** Working utility
-
----
-
 ## What I'm Building Toward
 
 I am building toward a body of work that connects:
@@ -118,7 +120,7 @@ I am building toward a body of work that connects:
 * industrial and business systems
 * practical technology for students, businesses, and communities
 
-The goal is not just to build tools that work, but tools that are understandable, responsible, secure, and useful.
+The goal is not to build tools that work, but to build tools that are understandable, responsible, secure and useful.
 
 ---
 
@@ -126,15 +128,15 @@ The goal is not just to build tools that work, but tools that are understandable
 
 Some of my work involves private or client-facing systems that are not fully public.
 
-For these, I share only safe high-level lessons around architecture, security, workflows, and system design — without exposing sensitive business logic, private data, credentials, or client operations.
+For these, I share only safe high-level lessons around architecture, security, workflows, and system design without exposing sensitive business logic, private data, credentials, or client operations.
 
 ---
 ## Contact
 
 | Platform | Link |
 |---|---|
-| Portfolio | [kwaix.dev](https://kwaix.dev) |
-| LinkedIn | [wikin](https://www.linkedin.com/in/wikin/) |
+| Portfolio | [KWAIX.dev](https://kwaix.dev) |
+| LinkedIn | [KWAIX](https://www.linkedin.com/in/kwaix) |
 | GitHub | [kwisdomk](https://github.com/kwisdomk) |
 
 ---
