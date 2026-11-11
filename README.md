@@ -1,142 +1,81 @@
 <div align="center">
 
-# Wisdom K — KWAIX
+# Wisdom Kinoti — KWAIX
 
-### Cybersecurity Analyst · AI Systems Builder · Secure Software & Practical Tech Solutions
+### Junior Cybersecurity Analyst · AI Systems Builder
 
-I build secure AI-assisted systems, cybersecurity tools, automation workflows, and practical software solutions for real-world problems.
+I build AI systems, Windows diagnostic tools, and automation workflows. Cybersecurity is the foundation I'm building on.
 
 [Portfolio](https://kwaix.dev) · [LinkedIn](https://www.linkedin.com/in/kwaix/) · [GitHub](https://github.com/kwisdomk)
 
 </div>
 
----
+## About
 
-## About Me
+I'm based in Nairobi, Kenya, and studying Computer Science. My work connects cybersecurity, local AI, and practical software development.
 
-I'm a Computer Science student, junior cybersecurity analyst, and AI systems builder based in Kenya.
-
-My work sits at the intersection of cybersecurity, AI-assisted systems, automation, systems diagnostics, industrial technology, and practical software engineering. I enjoy building tools that are useful, explainable, secure, and grounded in real problems.
-
-KWAIX is my personal technology brand for secure AI-assisted systems, cybersecurity tools, and practical technology solutions.
-
----
+KWAIX is my personal technical record: projects, experiments, field notes, and lessons from building and investigating real systems. I want to understand how the systems I build work and what their results actually tell us.
 
 ## Current Focus
 
-| Area            | What I'm Working On                                                                |
-| --------------- | ---------------------------------------------------------------------------------- |
-| Cybersecurity   | SOC fundamentals, SIEM, incident response, digital forensics, endpoint diagnostics |
-| AI Systems      | Local AI, RAG, agents, tool use, automation, privacy-aware assistants              |
-| Secure Software | Practical system design, auditability, role-based access, business workflows       |
-| Infrastructure  | Linux, networking, cloud, containers, systems administration                       |
-| Industrial Tech | Digital twins, monitoring, predictive maintenance, operational dashboards          |
+| Area | Current work |
+| --- | --- |
+| Cybersecurity | Developing SOC, incident response, and digital forensics skills; investigating endpoint behaviour |
+| AI systems | Learner evidence, longitudinal analysis, local models, MCP tools, and teacher review through ALLPS |
+| Practical tooling | PowerShell diagnostics, baseline comparison, command-line automation, and API integration testing |
 
----
+I also explore networking, cloud infrastructure, edge AI, and industrial systems.
 
-## Featured Projects
+## Selected Projects
 
----
+### [ALLPS](https://github.com/kwisdomk/allps)
 
-### [Mr.Roboto v2.0](https://github.com/kwisdomk/Mr.Roboto)
+**Agentic Longitudinal Learner Profile System · Working prototype**
 
-**Command-line media automation utility built for cleaner, faster and more controlled workflows.**
+Preserves learner evidence across terms and teachers, with cited analysis and a teacher review step before findings enter a surfaced profile. Combines Python services, SQLite, local model inference, and an MCP interface.
 
-Mr.Roboto is a PowerShell-based utility designed to simplify repetitive media-handling tasks through terminal-driven automation. Instead of relying on cluttered online tools, the project focuses on providing a practical local workflow for handling supported media sources with less friction and more control.
+Built for the African Agentic AI Design Challenge. School deployment and learning outcomes have not been validated.
 
+[Repository](https://github.com/kwisdomk/allps) · [Demo video](https://youtu.be/MXhL38vzq-s) · [Project documentation](https://allps.kwaix.dev)
 
-**Focus:** automation, scripting, command-line tooling, workflow optimization
-**Stack:** PowerShell
-**Status:** Windows active . Linux beta
-
----
+The public website documents the project; the application runs locally.
 
 ### [AEGIS](https://github.com/kwisdomk/AEGIS)
 
-**Portable Windows system diagnostics framework.**
+**Portable Windows diagnostics · Active prototype**
 
-AEGIS is a lightweight PowerShell-based diagnostics framework for collecting system baselines, analyzing machine state, and supporting local investigation workflows.
+A PowerShell framework for collecting system baselines, applying diagnostic rules, and comparing snapshots after changes. The workflow is collect → analyse → act → compare, with structured local reports and an interactive launcher.
 
+**Stack:** PowerShell, WMI/CIM, JSON reporting.
 
-**Focus:** system diagnostics, baseline collection, local investigation, endpoint visibility
-**Stack:** PowerShell, Windows diagnostics, structured reporting
-**Status:** Active prototype
+### [Tavily Assessment SDK](https://github.com/kwisdomk/tavily-assessment-sdk)
 
----
+**Python SDK generation and developer experience assessment · Assessment project**
+
+Generated an unofficial Tavily API client using Voxgig's SDK tooling, then assessed installation, search requests, and error handling. The report records successful live requests, two passing Search tests, one skipped test, and observations about exception metadata and documentation.
+
+**Contribution:** SDK generation, integration testing, and a [DX assessment report](https://github.com/kwisdomk/tavily-assessment-sdk/blob/main/DX_REPORT.md).
 
 ### [TJOWK / kwaix.dev](https://github.com/kwisdomk/tjowk)
 
-**My live portfolio and personal technology brand platform.**
+**My public technical record · Active**
 
-TJOWK is the home of KWAIX — my personal site for documenting projects, technical growth, certifications, experiments, and field notes.
+The site where I document projects, certifications, experiments, and technical direction.
 
+**Stack:** Next.js, TypeScript, Tailwind CSS, Zod.
 
-**Focus:** personal branding, project documentation, portfolio systems, technical storytelling
-**Stack:** TypeScript, modern web tooling
-**Status:** Active
+## Other Work
 
----
+- [Mr.Roboto](https://github.com/kwisdomk/Mr.Roboto) — terminal-based media automation using yt-dlp and FFmpeg. Windows stable; Linux beta.
+- [HAKI](https://github.com/kwisdomk/HAKI) — a hackathon concept prototype exploring AI-assisted telemedicine for rural healthcare.
+- [vulai](https://github.com/kwisdomk/vulai) — a public prompt framework for clearer professional profile writing.
 
-### [HAKI](https://github.com/kwisdomk/HAKI)
+## Private Work
 
-**AI-powered telemedicine platform concept for rural healthcare.**
+Some internship and client work involves internal automation, diagnostics, industrial monitoring, and digital twin exploration. I share only non-sensitive architectural lessons and general design patterns.
 
-HAKI was built as an AI healthcare concept focused on improving access to medical guidance in low-resource environments.
+## Direction
 
+I'm working toward deeper cybersecurity competence and AI-assisted systems that are understandable, auditable, and useful in Kenyan and African contexts.
 
-**Focus:** AI healthcare, rural access, triage workflows, practical social impact
-**Stack:** Python, AI workflow design
-**Status:** Hackathon / concept prototype
-
----
-
-### [vulai](https://github.com/kwisdomk/vulai)
-
-**Open-source AI prompt framework for clearer professional positioning.**
-
-vulai is a prompt framework designed to help transform vague profile writing into clearer, stronger, more evidence-based personal branding content.
-
-
-**Focus:** AI-assisted writing, prompt design, professional positioning, clarity
-**Status:** Public framework
-
----
-
-## What I'm Building Toward
-
-I am building toward a body of work that connects:
-
-* cybersecurity practice
-* AI-assisted systems
-* secure software design
-* local-first tooling
-* industrial and business systems
-* practical technology for students, businesses, and communities
-
-The goal is not to build tools that work, but to build tools that are understandable, responsible, secure and useful.
-
----
-
-## Private / Client Work
-
-Some of my work involves private, internship-based and or client-facing systems that are not fully public.
-
-This includes industrial monitoring, digital twin concepts, internal automamtion, diagnostics and operational workflow systems. For these projects, I only share safe high-level output around architecture, security, workflows, data handling and system design without exposing sensitive business logic, private data, creds, internal infra. or client ops.
-
-
-### Operational Technology Digital Twin ###
-
-Private industrial technology work focused on asset monitoring, predictive maintanance, anomaly detection and operational visibility.
-
-This work explores how digital twin concepts, simulation, AI-assited analysis and dashboarding can supprt maintanance planning and industrial decision-making. Public discussion is limited to general technical lessons and non-sensitive desing patterns.
-
----
-## Contact
-
-| Platform | Link |
-|---|---|
-| Portfolio | [KWAIX.dev](https://kwaix.dev) |
-| LinkedIn | [KWAIX](https://www.linkedin.com/in/kwaix) |
-| GitHub | [kwisdomk](https://github.com/kwisdomk) |
-
----
+[Portfolio](https://kwaix.dev) · [LinkedIn](https://www.linkedin.com/in/kwaix/) · [GitHub](https://github.com/kwisdomk)
